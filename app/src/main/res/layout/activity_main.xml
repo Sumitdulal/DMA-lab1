@@ -40,7 +40,7 @@
         android:background="#FFEB3B"
         android:gravity="center"
         android:text="0"
-        android:textColor="#FFFFFF"
+        android:textColor="#009688"
         android:textSize="160sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
